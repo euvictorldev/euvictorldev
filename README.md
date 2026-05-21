@@ -92,6 +92,6 @@
 
 <!-- Last updated: 2026-05-21T14:01:52.956Z -->
 
-<img src="https://raw.githubusercontent.com/victorl-dev/victorl-dev/main/ghostcommit-metrics.svg?t=1779372112956" alt="GhostCommit Metrics"/>
+<img src="https://raw.githubusercontent.com/euvictorldev/euvictorldev/main/ghostcommit-metrics.svg?t=1779372112956" alt="GhostCommit Metrics"/>
 
 <!-- VIBE_END -->
