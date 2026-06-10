@@ -83,7 +83,7 @@
     <br>
     <img src="https://img.shields.io/badge/Blitz.gg-EF3F49?style=for-the-badge&logo=riotgames&logoColor=white" alt="Blitz.gg"> 
     <img src="https://img.shields.io/badge/3x_Medium-orange?style=for-the-badge" alt="Medium">
-    <img src="https://img.shields.io/badge/1x_Low-yellow?style=for-the-badge" alt="Low">
+    <img src="https://img.shields.io/badge/2x_Low-yellow?style=for-the-badge" alt="Low">
   </p>
 </article>
 
