@@ -11,7 +11,7 @@
     </h1>
   </div>
 
-  <strong>Full-Stack Software Engineer & Security Research</strong><br>Systems Analysis Student & Security Researcher
+  <strong>Full-Stack Software Engineer & Security Research</strong><br>Systems Analysis Student
 
 <p dir="auto">
   <img src="https://img.shields.io/badge/TryHackMe-Top_1%25_Global-880000?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe Top 1%">
