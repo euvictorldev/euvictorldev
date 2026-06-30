@@ -75,16 +75,16 @@
   </div>
     
   <p dir="auto">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
-    <img src="https://img.shields.io/badge/Critical_Chain-9.0%2B-red?style=for-the-badge" alt="Critical">
-    <img src="https://img.shields.io/badge/Self--Replicating_Worm-critical?style=for-the-badge" alt="Worm">
-    <br>
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    <img src="https://img.shields.io/badge/1x_High-red?style=for-the-badge" alt="High">
-    <br>
-    <img src="https://img.shields.io/badge/Blitz.gg-EF3F49?style=for-the-badge&logo=riotgames&logoColor=white" alt="Blitz.gg"> 
-    <img src="https://img.shields.io/badge/3x_Medium-orange?style=for-the-badge" alt="Medium">
-    <img src="https://img.shields.io/badge/2x_Low-yellow?style=for-the-badge" alt="Low">
+      <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+      <img src="https://img.shields.io/badge/Critical_Chain-9.0%2B-red?style=for-the-badge" alt="Critical">
+      <img src="https://img.shields.io/badge/Self--Replicating_Worm-red?style=for-the-badge" alt="Worm">
+      <br>
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+      <img src="https://img.shields.io/badge/RCE_Vector_via_Protocol_Abuse-orange?style=for-the-badge" alt="RCE Vector">
+      <br>
+      <img src="https://img.shields.io/badge/Blitz.gg-EF3F49?style=for-the-badge&logo=riotgames&logoColor=white" alt="Blitz.gg"> 
+      <img src="https://img.shields.io/badge/3x_Medium-yellow?style=for-the-badge" alt="Medium">
+      <img src="https://img.shields.io/badge/2x_Low-blue?style=for-the-badge" alt="Low">
   </p>
 </article>
 
