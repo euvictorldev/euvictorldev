@@ -83,8 +83,8 @@
       <img src="https://img.shields.io/badge/RCE_Vector_via_Protocol_Abuse-orange?style=for-the-badge" alt="RCE Vector">
       <br>
       <img src="https://img.shields.io/badge/Blitz.gg-EF3F49?style=for-the-badge&logo=riotgames&logoColor=white" alt="Blitz.gg"> 
-      <img src="https://img.shields.io/badge/3x_Medium-yellow?style=for-the-badge" alt="Medium">
-      <img src="https://img.shields.io/badge/2x_Low-blue?style=for-the-badge" alt="Low">
+      <img src="https://img.shields.io/badge/3x_Critical-red?style=for-the-badge" alt="Critical">
+      <img src="https://img.shields.io/badge/1x_High-orange?style=for-the-badge" alt="High">
   </p>
 </article>
 
