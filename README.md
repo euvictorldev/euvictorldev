@@ -82,15 +82,16 @@
   </div>
     
   <p dir="auto">
-      <img src="https://img.shields.io/badge/NASA-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA">
-      <img src="https://img.shields.io/badge/2x_Critical-8B0000?style=for-the-badge" alt="2x Critical">
-      <br>
       <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
-      <img src="https://img.shields.io/badge/Critical_Chain-9.0%2B-red?style=for-the-badge" alt="Critical">
+      <img src="https://img.shields.io/badge/Critical-red?style=for-the-badge" alt="Critical">
       <img src="https://img.shields.io/badge/Self--Replicating_Worm-red?style=for-the-badge" alt="Worm">
       <br>
+      <img src="https://img.shields.io/badge/NASA-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA">
+      <img src="https://img.shields.io/badge/2x_Critical-red?style=for-the-badge" alt="2x Critical">
+      <br>
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-      <img src="https://img.shields.io/badge/RCE_Vector_via_Protocol_Abuse-orange?style=for-the-badge" alt="RCE Vector">
+      <img src="https://img.shields.io/badge/Medium-orange?style=for-the-badge" alt="Medium">
+      <img src="https://img.shields.io/badge/Low-yellow?style=for-the-badge" alt="Low">
       <br>
       <img src="https://img.shields.io/badge/Blitz.gg-EF3F49?style=for-the-badge&logo=riotgames&logoColor=white" alt="Blitz.gg"> 
       <img src="https://img.shields.io/badge/3x_Critical-red?style=for-the-badge" alt="Critical">
