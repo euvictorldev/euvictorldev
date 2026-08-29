@@ -84,7 +84,6 @@
   <p dir="auto">
       <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
       <img src="https://img.shields.io/badge/Critical-red?style=for-the-badge" alt="Critical">
-      <img src="https://img.shields.io/badge/Self--Replicating_Worm-red?style=for-the-badge" alt="Worm">
       <br>
       <img src="https://img.shields.io/badge/NASA-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA">
       <img src="https://img.shields.io/badge/2x_Critical-red?style=for-the-badge" alt="2x Critical">
