@@ -14,7 +14,7 @@
   <strong>Full-Stack Developer & Security Research</strong><br>Systems Analysis Student
 
 <p dir="auto">
-  <img src="https://img.shields.io/badge/TryHackMe-Top_1%25_Global-880000?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe Top 1%">
+  <img src="https://img.shields.io/badge/TryHackMe-Top_2%25_Global-880000?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe Top 2%">
   <img src="https://img.shields.io/badge/SaaS_Revenue-5--Figure-green?style=flat-square&logo=stripe&logoColor=white" alt="5-Figure Revenue">
 </p>
 
@@ -34,6 +34,14 @@
     <a href="https://discord.gg/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/discord.svg" alt="Discord"></a>
     <a href="https://x.com/euvictorldev" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/twitter-x.svg" alt="Twitter"></a>
     <a href="https://instagram.com/euvictorldev" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/instagram.svg" alt="Instagram"></a>
+  </p>
+
+  <div class="markdown-heading" dir="auto">
+    <h3 tabindex="-1" class="heading-element" dir="auto">Portfolio</h3>
+  </div>
+
+  <p dir="auto">
+    <a href="https://euvictorldev.github.io/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/badge/euvictorldev.github.io-0D0D0D?style=for-the-badge&logo=githubpages&logoColor=A855F7&labelColor=0D0D0D" alt="Portfolio"></a>
   </p>
 
   <div class="markdown-heading" dir="auto">
@@ -75,7 +83,7 @@
     
   <p dir="auto">
       <img src="https://img.shields.io/badge/NASA-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA">
-      <img src="https://img.shields.io/badge/2x_P1-8B0000?style=for-the-badge" alt="2x P1">
+      <img src="https://img.shields.io/badge/2x_Critical-8B0000?style=for-the-badge" alt="2x Critical">
       <br>
       <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
       <img src="https://img.shields.io/badge/Critical_Chain-9.0%2B-red?style=for-the-badge" alt="Critical">
