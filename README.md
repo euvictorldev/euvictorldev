@@ -20,9 +20,7 @@
 
   <ul dir="auto">
     <li>🛠️ I use daily: <strong>.py, .js, .sql, .docker, .supabase, .ts</strong></li>
-    <li>🤖 Engineering <strong>Multitenant AI Systems</strong> & advanced automation</li>
-    <li>⚡ High-velocity delivery through <strong>AI-Augmented Development</strong> & Strategic Architecture</li>
-    <li>💬 <code>ping</code> me about <strong>saas, ai orchestration, full-stack, strategic leadership</strong></li>
+    <li>💬 <code>ping</code> me about <strong>cybersecurity, books, bug hunting...</strong></li>
   </ul>
 
   <div class="markdown-heading" dir="auto">
