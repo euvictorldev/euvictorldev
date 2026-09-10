@@ -19,7 +19,7 @@
 </p>
 
   <ul dir="auto">
-    <li>🛠️ I use daily: <strong>.py, .js, .sql, .docker, .supabase, .ts</strong></li>
+    <li>🛠️ I use daily: <strong>.py, .js, .sql, .docker, burp-suite, obsidian.</strong></li>
     <li>💬 <code>ping</code> me about <strong>cybersecurity, books, bug hunting...</strong></li>
   </ul>
 
@@ -29,7 +29,6 @@
 
   <p dir="auto">
     <a href="https://www.linkedin.com/in/euvictorldev/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/linkedin.svg" alt="LinkedIn"></a>
-    <a href="https://discord.gg/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/discord.svg" alt="Discord"></a>
     <a href="https://x.com/euvictorldev" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/twitter-x.svg" alt="Twitter"></a>
     <a href="https://instagram.com/euvictorldev" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/instagram.svg" alt="Instagram"></a>
   </p>
@@ -97,7 +96,7 @@
 </article>
 
 <div class="markdown-heading" dir="auto">
-    <h3 tabindex="-1" class="heading-element" dir="auto">Don't be a ghost on GitHub, use:</h3>
+    <h3 tabindex="-1" class="heading-element" dir="auto">My Extension: Don't be a ghost on GitHub, use:</h3>
 </div>
 
 <!-- VIBE_START -->
