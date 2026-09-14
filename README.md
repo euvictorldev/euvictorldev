@@ -30,7 +30,6 @@
   <p dir="auto">
     <a href="https://www.linkedin.com/in/euvictorldev/" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/linkedin.svg" alt="LinkedIn"></a>
     <a href="https://x.com/euvictorldev" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/twitter-x.svg" alt="Twitter"></a>
-    <a href="https://instagram.com/euvictorldev" target="_blank" rel="noopener noreferrer nofollow"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/instagram.svg" alt="Instagram"></a>
   </p>
 
   <div class="markdown-heading" dir="auto">
