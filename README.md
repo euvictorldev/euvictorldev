@@ -89,7 +89,7 @@
       <img src="https://img.shields.io/badge/Low-yellow?style=for-the-badge" alt="Low">
       <br>
       <img src="https://img.shields.io/badge/Blitz.gg-EF3F49?style=for-the-badge&logo=riotgames&logoColor=white" alt="Blitz.gg"> 
-      <img src="https://img.shields.io/badge/3x_Critical-red?style=for-the-badge" alt="Critical">
+      <img src="https://img.shields.io/badge/4x_Critical-red?style=for-the-badge" alt="Critical">
       <img src="https://img.shields.io/badge/2x_High-orange?style=for-the-badge" alt="High">
   </p>
 </article>
