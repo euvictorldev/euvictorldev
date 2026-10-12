@@ -93,22 +93,3 @@
       <img src="https://img.shields.io/badge/2x_High-orange?style=for-the-badge" alt="High">
   </p>
 </article>
-
-<div class="markdown-heading" dir="auto">
-    <h3 tabindex="-1" class="heading-element" dir="auto">My Extension: Don't be a ghost on GitHub, use:</h3>
-</div>
-
-<!-- VIBE_START -->
-
-<!-- ⏱ Last updated: 2026-09-30T22:41:25.483Z -->
-
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300">
-      <rect width="600" height="300" fill="#1a1a2e" rx="8"/>
-      <rect x="1" y="1" width="598" height="298" fill="none" stroke="#e94560" stroke-width="0.5" rx="8" opacity="0.3"/>
-      <text x="25" y="30" fill="#e94560" font-family="monospace" font-size="16" font-weight="bold">VIBE CODING</text>
-      <text x="25" y="48" fill="#8899aa" font-family="monospace" font-size="11">0 saves · 0 lines · 0 sessions</text>
-      
-      <text x="25" y="285" fill="#555" font-family="monospace" font-size="9">Last: N/A</text>
-    </svg>
-
-<!-- VIBE_END -->
